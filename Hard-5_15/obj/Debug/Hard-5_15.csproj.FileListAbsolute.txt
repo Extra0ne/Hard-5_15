@@ -1,0 +1,7 @@
+C:\Users\Polzovatel\source\repos\Hard-5_15\Hard-5_15\bin\Debug\Hard-5_15.exe.config
+C:\Users\Polzovatel\source\repos\Hard-5_15\Hard-5_15\bin\Debug\Hard-5_15.exe
+C:\Users\Polzovatel\source\repos\Hard-5_15\Hard-5_15\bin\Debug\Hard-5_15.pdb
+C:\Users\Polzovatel\source\repos\Hard-5_15\Hard-5_15\obj\Debug\Hard-5_15.csprojAssemblyReference.cache
+C:\Users\Polzovatel\source\repos\Hard-5_15\Hard-5_15\obj\Debug\Hard-5_15.csproj.CoreCompileInputs.cache
+C:\Users\Polzovatel\source\repos\Hard-5_15\Hard-5_15\obj\Debug\Hard-5_15.exe
+C:\Users\Polzovatel\source\repos\Hard-5_15\Hard-5_15\obj\Debug\Hard-5_15.pdb
